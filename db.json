@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "firstName": "sarah",
+      "lastName": "lala222",
+      "checkbox": "true",
+      "id": 5,
+      "like": 10,
+      "dislike": 6,
+      "jadore": 2,
+      "jaore": null
+    },
+    {
+      "firstName": "sonia",
+      "lastName": "sosso",
+      "checkbox": true,
+      "id": 6,
+      "like": 7,
+      "dislike": 1,
+      "jadore": 1
+    },
+    {
+      "firstName": "hana",
+      "lastName": "hana",
+      "checkbox": true,
+      "id": 7,
+      "like": 6,
+      "dislike": 1,
+      "jadore": 0
+    },
+    {
+      "firstName": "zara",
+      "lastName": "gucci",
+      "checkbox": true,
+      "id": 8,
+      "like": 0,
+      "dislike": 1,
+      "jadore": 0
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
